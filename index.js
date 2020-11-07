@@ -1,2 +1,2 @@
 // Code your solution in this file!
-let companyName = 'Susan Smith';
+let companyName == 'Susan Smith';
